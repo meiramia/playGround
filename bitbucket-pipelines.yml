@@ -9,5 +9,5 @@ pipelines:
   default:
     - step:
         script:
-          - mvn clean install -source 7
+          - mvn clean install -source 5
           - echo "Everything is awesome!"
