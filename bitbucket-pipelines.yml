@@ -9,5 +9,6 @@ pipelines:
   default:
     - step:
         script:
-          - mvn clean install -source 1.5
+          - echo "Good Luck"
+          - mvn clean install
           - echo "Everything is awesome!"
