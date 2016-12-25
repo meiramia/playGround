@@ -4,7 +4,7 @@ public class MeirHello
 {
 	public String hello()
 	{
-		return "Helloo";
+		return "Helloo with OpenShift listening";
 	}
 
 }
