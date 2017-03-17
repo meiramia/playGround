@@ -9,7 +9,7 @@ public class MeirHello
 	public static void main (String [] args)
 	{
 		MeirHello myHello = new MeirHello();
-		System.out.println("PRINTING **********************************");
+		System.out.println("PRINTING Nulll**********************************");
 		System.out.println(myHello.hello());
 		System.out.println("END PIPA END Plus BoB one ");
 	}
