@@ -11,7 +11,7 @@ public class MeirHello
 		MeirHello myHello = new MeirHello();
 		System.out.println("PRINTING **********************************");
 		System.out.println(myHello.hello());
-		System.out.println("END PIPA END Plus one ");
+		System.out.println("END PIPA END Plus BoB one ");
 	}
 
 }
